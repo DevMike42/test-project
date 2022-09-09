@@ -1,3 +1,3 @@
 # test-project
 
-Here is a description but i wanna add more to it.
+Here is a description that will cause a merge conflict.
